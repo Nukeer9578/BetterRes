@@ -6,7 +6,7 @@ case ${MODEL} in
     X=750 Y=1334;;
 	iPhone7,1 | iPhone8,2 | iPhone9,2 | iPhone9,4 | iPhone10,2 | iPhone10,5)
     X=1242 Y=2208;;
-	iPhone10,3 | iPhone10,6)
+	iPhone10,3 | iPhone10,6 | iPhone11,2)
     X=1125 Y=2436;;
 esac
 echo ${MODEL} detected!
